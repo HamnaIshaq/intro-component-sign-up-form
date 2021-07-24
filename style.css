@@ -223,6 +223,7 @@ input[type=submit]:focus{
 
   .col-1{ 
     text-align: left; 
+    padding-top: 8em;
     width: 45%;  
   }
   
